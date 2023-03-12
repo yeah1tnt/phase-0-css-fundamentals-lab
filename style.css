@@ -2,4 +2,21 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align:center;
+}
+#featured-property p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+a{
+  padding:10px;
+  padding-left:10px;
+  padding-right:10px;
+  background-color:azure;
+}
+#details div{
+  background-color: red;
+  width: 25%;
+  text-align: center;
 }
